@@ -4,7 +4,7 @@ Info-Seite zur Weihnachts-Messe in Hamburg-Marienthal – **Sonntag, 22. Novembe
 
 ## Dateien
 
-- `index.html` – die Seite (eine Datei, keine Abhängigkeiten außer Google Fonts)
+- `index.html` – die Seite (Schriften lokal im Ordner `fonts/`, kein Google-Fonts-Abruf)
 - `img/haus.png` – Hauszeichnung aus dem Flyer, freigestellt
 - `img/flyer.jpg` – Original-Flyer
 - `weihnachtsmesse-2026.ics` – Kalendereintrag zum Herunterladen
